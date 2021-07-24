@@ -19,8 +19,6 @@ body {
   background-color: var(--light-pink);
   color: #444444;
 }
-.blur {
-}
 
 form {
   margin-top: 3rem;
